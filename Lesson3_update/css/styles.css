@@ -1,0 +1,26 @@
+body {
+    background: black
+}
+
+h1{
+    color: red;
+    text-decoration: underline;
+    text-shadow: 4px 4px 4px white;
+    font-size: 60px;
+}
+
+h2{
+    color: red;
+    text-decoration: underline;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: white;
+    border-style: none;
+    max-width: 700px;
+    font-size: 18px;
+    padding-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
